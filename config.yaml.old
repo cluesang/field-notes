@@ -1,0 +1,6 @@
+title: New Site Title
+baseURL: 'http://newsite.com'
+theme: hugo-book
+languageCode: ''
+googleAnalytics: ''
+enableRobotsTXT: true
